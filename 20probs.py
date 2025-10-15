@@ -66,4 +66,4 @@ def count_occurrences(lst, element):
 def remove_duplicates(lst):
     return list(set(lst))
 
-# Problem 15: Check if
+# Problem 15: Check if nothing happens
